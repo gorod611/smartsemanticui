@@ -1,4 +1,7 @@
 /*******************************
          Theme Overrides
 *******************************/
-
+.ui.grid>.row {
+	padding-top:17px;
+	padding-bottom:0;
+}

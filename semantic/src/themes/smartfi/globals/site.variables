@@ -138,7 +138,7 @@
        Links
 --------------------*/
 
-@linkColor           : #4183C4;
+@linkColor           : #1d75e2;
 @linkUnderline       : none;
 @linkHoverColor      : darken(saturate(@linkColor, 20), 15, relative);
 @linkHoverUnderline  : @linkUnderline;
@@ -226,12 +226,12 @@
 @olive            : #B5CC18;
 @green            : #21BA45;
 @teal             : #00B5AD;
-@blue             : #2185D0;
+@blue             : #1d75e2;
 @violet           : #6435C9;
 @purple           : #A333C8;
 @pink             : #E03997;
 @brown            : #A5673F;
-@grey             : #767676;
+@grey             : #c2c2c2;
 @black            : #1B1C1D;
 
 /*---  Light Colors  ---*/
@@ -380,7 +380,7 @@
 
 /* For source only. Modified in gulp for dist */
 @imagePath : '../../themes/smartfi/assets/images';
-@fontPath  : '../../themes/smartfi/assets/fonts';
+@fontPath  : '/styles/themes/smartfi/assets/fonts';
 
 /*-------------------
        Em Sizes

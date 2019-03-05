@@ -1,3 +1,27 @@
 /*******************************
          Theme Overrides
 *******************************/
+.ui.container {
+	min-width:1420px
+}
+
+
+@media only screen and (min-width: 1920px) {
+  .ui.container {
+    width: 1420px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .ui.grid.container {
+    width: calc( 1420px  +  2rem ) !important;
+  }
+
+  .ui.relaxed.grid.container {
+    width: calc( 1420px  +  3rem ) !important;
+  }
+
+  .ui.very.relaxed.grid.container {
+    width: calc( 1420px  +  5rem ) !important;
+  }
+}

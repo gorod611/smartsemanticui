@@ -56,4 +56,6 @@
   .dropdown.right:before { content: "\f0da"; }
   .dropdown.close:before { content: "\f00d"; }
 */
-
+.ui.selection.dropdown {
+	border: 1px solid #c2c2c2;
+}
