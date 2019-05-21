@@ -1,0 +1,14 @@
+.ui[class*="very basic"].table:not(.sortable):not(.stribled) thead tr:first-child th {
+padding-top:0;
+font-size:12px;
+font-weight: normal;
+color: #969696;
+border-bottom: 2px solid #4e4e4e;
+}
+.ui[class*="very basic"].table  {
+padding: 0 30px;
+}
+.ui.table td.error, .ui.table tr.error{
+background: #fbdfd5;
+color: rgba(0,0,0,.87);
+}

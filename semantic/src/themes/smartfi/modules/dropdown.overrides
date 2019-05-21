@@ -59,3 +59,10 @@
 .ui.selection.dropdown {
 	border: 1px solid #c2c2c2;
 }
+.ui.disabled.dropdown {
+	opacity:1;
+	background: #e9e9e9;
+}
+.ui.disabled.dropdown>.dropdown.icon {
+	display:none;
+}

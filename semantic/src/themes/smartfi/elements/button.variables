@@ -22,7 +22,7 @@
 @textTransform: upercase;
 @tapColor: transparent;
 @fontFamily: @pageFont;
-@fontWeight: 500;
+@fontWeight: 100;
 @textColor: rgba(0, 0, 0, 0.6);
 @textShadow: none;
 @invertedTextShadow: @textShadow;

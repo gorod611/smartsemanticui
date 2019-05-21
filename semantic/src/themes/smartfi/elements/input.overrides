@@ -7,3 +7,9 @@
 .ui.input>input {
 	border: 1px solid #c2c2c2;
 }
+.ui.disabled.input {
+	opacity: 1;
+}
+.ui.disabled.input>input {
+	background: #e9e9e9;
+}

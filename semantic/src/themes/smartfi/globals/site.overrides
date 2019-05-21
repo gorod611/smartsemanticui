@@ -4,7 +4,7 @@
 @font-face {
   font-family: 'Icons';
   src: url("themes/smartfi/assets/fonts/icons.eot");
-  src: url("themes/smartfi/assets/fonts/icons.eot?#iefix") format('embedded-opentype'), url("themes/smartfi/assets/fonts/icons.woff2") format('woff2'), url("/styles/themes/smartfi/assets/fonts/icons.woff") format('woff'), url("/styles/themes/smartfi/assets/fonts/icons.ttf") format('truetype'), url("/styles/themes/smartfi/assets/fonts/icons.svg#icons") format('svg');
+  src: url("themes/smartfi/assets/fonts/icons.eot?#iefix") format('embedded-opentype'), url("themes/smartfi/assets/fonts/icons.woff2") format('woff2'), url("themes/smartfi/assets/fonts/icons.woff") format('woff'), url("themes/smartfi/assets/fonts/icons.ttf") format('truetype'), url("themes/smartfi/assets/fonts/icons.svg#icons") format('svg');
   font-style: normal;
   font-weight: normal;
   font-variant: normal;

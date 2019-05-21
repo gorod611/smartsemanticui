@@ -2,10 +2,10 @@
          Theme Overrides
 *******************************/
 h1.ui.header {
-	font-size: 24px;
+	font-size: 22px;
 	color: #232323;	
 }
 h2.ui.header {
-	font-size: 18px;
+	font-size: 16px;
 	color: #232323;	
 }

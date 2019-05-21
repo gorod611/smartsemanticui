@@ -1,3 +1,21 @@
 /*******************************
          Theme Overrides
 *******************************/
+.ui.secondary.pointing.menu .active.item {
+border-color: #64c3ff;
+color: #32a3fb;
+font-weight:500;
+}
+.ui.secondary.pointing.menu .active.item:hover {
+border-color: #64c3ff;
+color: #32a3fb;
+font-weight:500;
+}
+.ui.secondary.pointing.menu .item {
+font-size:13px;
+font-weight:500;
+padding: 0 15px 18px 20px;
+}
+.ui.secondary.pointing.menu {
+border-bottom: 2px solid #f3f3f3;
+}
